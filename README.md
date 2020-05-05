@@ -6,3 +6,6 @@ This requires 9.0+ to use the REST API.
 
 # Get API Key:
 curl -k -X GET 'https://\<firewall\>/api/?type=keygen&user=\<username\>&password=\<password\>'
+
+
+https://ibb.co/7bDcCWd
