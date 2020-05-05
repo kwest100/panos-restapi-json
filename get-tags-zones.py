@@ -4,7 +4,7 @@ import json
 
 
 response = requests.get(f"https://192.168.55.10/restapi/v9.1/Policies/SecurityRules?location=vsys&vsys=vsys1",verify=False, 
-    headers={"X-PAN-KEY": "LUFRPT0yWGUvMlRxNGVtdXJ4YVNHSVFxL2Z3ZFArYnM9Y2NOdGxCM01PZEhRcFhZem94MXhzOXVNS2hkUW1tRDc1eEJ1NS91V1pieTkxSEIvK3hweWNza3pyTW5UM1lSMA=="
+    headers={"X-PAN-KEY": "YOUR-API-KEY"
     }
 )
 
